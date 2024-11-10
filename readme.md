@@ -1,1 +1,3 @@
 PicGo storage
+token:
+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
